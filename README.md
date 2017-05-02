@@ -84,7 +84,7 @@ Give that a run by typing `nodejs other_file.js` and you should see the name get
 
 ### Your Turn
 
-You now know how multiple files interact as well as how `if` statements work. Now you have to write your code to match some specific tests. Open up `tests.js` and you will see two `if` statements. Let's give this a run to start things off by typing `nodejs tests.js`. You should get two messages:
+You now you know how multiple files interact as well as how `if` statements work. Now you have to write your code to match some specific tests. Open up `tests.js` and you will see two `if` statements. Let's give this a run to start things off by typing `nodejs tests.js`. You should get two messages:
 
 ````
 Expected: Jane, Received: Joe
@@ -92,3 +92,5 @@ Expected: 70, Received: 74
 ```
 
 Now it's your job to modify `index.js` so that when you run `tests.js` it says you got both `height` and `name`. **One note: Capitalization matters and String vs. Numbers matter. Numbers don't have any quotes around them, Strings do have quotes around them!** 
+
+<p class='util--hide'>View <a href='https://learn.co/lessons/js-if-else-files-lab'>Practicing Conditional Statements</a> on Learn.co and start learning to code for free.</p>
