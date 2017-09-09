@@ -94,3 +94,7 @@ Expected: 70, Received: 74
 ```
 
 Now it's your job to modify `index.js` so that when you run `tests.js` it says you got both `height` and `name`. **One note: Capitalization matters and String vs. Numbers matter. Numbers don't have any quotes around them, Strings do have quotes around them!** 
+
+ Then to submit your code up, type learn submit in the terminal. 
+
+<p class='util--hide'>View <a href='https://learn.co/lessons/js-if-else-files-lab'>Practicing Conditional Statements</a> on Learn.co and start learning to code for free.</p>
